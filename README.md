@@ -1,5 +1,7 @@
-#Kioskdisplay
+# Kioskdisplay
 A html file that shows a slideshow which is hosted on google drive.
+
+See the slideshow in action here: http://ddlabau.github.io/kiosk-display/
 
 It autoupdates every "refreshMinutes" (5) minutes.
 
